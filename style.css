@@ -1,0 +1,36 @@
+.text
+{
+    background-color: #111D4A;
+    color:white ;
+    padding: 15px;
+}
+h1
+{
+    color: #05CBE9;
+}
+a
+{
+    color:#111D4A;
+    background-color: #05CBE9;
+    float: right;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+h5
+{
+    display: inline;
+}
+.br
+{
+    width: 10px;
+}
+.container
+{
+    display: flex;
+
+}
+h4
+{
+    margin-bottom: 190px;
+}
